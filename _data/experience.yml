@@ -1,3 +1,10 @@
+- company: ConsenSys
+  link: consensys.net
+  job_title: Blockchain Protocol Engineer
+  dates: 2017-Present
+  quote: 
+  description: | # this will include new lines to allow paragraphs
+    Established and managed a team developing and maintaining blockchain products, from Java libraries and privacy solutions to Ethereum clients, working closely with the delivery teams and engaging in early PoC and support conversations.
 - company: Acer Cloud Technology US
   link: acer.com
   job_title: Engineering Manager
