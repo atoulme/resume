@@ -1,12 +1,12 @@
 - name: Université de Technologie de Troyes, France
   dates: 2001 - 2006
-  qualification: MS Computer Science
+  qualification: Software Integration, Knowledge Management, Organizations Science.
   quote: 
   description: | # this will include new lines to allow paragraphs
-    Software Integration, Knowledge Management, Organizations Science.
+    MS Computer Science
 - name: Humboldt State University, California
   dates: 2004
-  qualification: Computer Science
+  qualification: Exchange program
   quote: 
   description: | # this will include new lines to allow paragraphs
     Computer Science
