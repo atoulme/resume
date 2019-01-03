@@ -1,0 +1,21 @@
+- company: Acer Cloud Technology US
+  link: acer.com
+  job_title: Engineering Manager
+  dates: 2016-2017
+  quote: 
+  description: | # this will include new lines to allow paragraphs
+    Managing a team developing a scalable, Docker-based platform in collaboration with the R&D and IoT product teams in Taipei to bring to market the Internet of Beings, a set of vertical solutions associating IoT devices and cloud-based solutions.
+- company: GOAPPO
+  link:
+  job_title: Chief Architect
+  dates: 2015-2017
+  quote: 
+  description: | # this will include new lines to allow paragraphs
+    Invented and brought to market a new way to build powerful business applications, removing the cost of dedicated development and traditional vendor lock-in. Architected and implemented a complete software suite encompassing a native client, a multi-tenant application development environment and a revolutionary, modern, scalable runtime.
+- company: Intalio
+  link:
+  job_title: Chief Architect
+  dates: 2006-2015
+  quote: 
+  description: | # this will include new lines to allow paragraphs
+    Co-invented and architected Intalio|Create, a new generation rapid application development platform. It radically changes the landscape of modern business applications development by focusing on collaborative experiences of people in unstructured environments, while removing the unnecessary burden of typical hard coded, inflexible logic.
