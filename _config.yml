@@ -24,9 +24,9 @@ linkedin_username: toulmean
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-I am a leader with a strong track record of delivering consistent, ROI driven business value. 
-I produce powerful software architectures, from requirements to production. 
-I enjoy managing large agile multinational teams.
+  I am a leader with a strong track record of delivering consistent, ROI driven business value. 
+  I produce powerful software architectures, from requirements to production. 
+  I enjoy managing large agile multinational teams.
 
 # Projects Section
 # projects_title: Projects
