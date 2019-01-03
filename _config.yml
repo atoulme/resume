@@ -24,8 +24,10 @@ linkedin_username: toulmean
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  I am a leader with a strong track record of delivering consistent, ROI driven business value. 
-  I produce powerful software architectures, from requirements to production. 
+  I am a leader with a strong track record of delivering consistent, ROI driven business value.
+
+  I produce powerful software architectures, from requirements to production.
+
   I enjoy managing large agile multinational teams.
 
 # Projects Section
@@ -41,7 +43,8 @@ about_content: | # this will include new lines to allow paragraphs
 # more_title: A Little More About Me
 more_content: | # this will include new lines to allow paragraphs
   I live in Silicon Valley, California, where life is sweet and kids grow happy.
-  Besides software engineering, I play board games, dabble in 3d printing and organize excursions for my cub scout.
+
+  Besides software engineering, I play board games, dabble in 3D printing and organize excursions for my cub scout.
 
 # Footer
 footer_show_references: true
