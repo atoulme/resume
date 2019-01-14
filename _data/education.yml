@@ -1,12 +1,25 @@
 - name: Université de Technologie de Troyes, France
   dates: 2001 - 2006
-  qualification: Software Integration, Knowledge Management, Organizations Science.
+  qualification: Master Computer Science
   quote: 
   description: | # this will include new lines to allow paragraphs
-    MS Computer Science
+    This university picks up right after the SAT equivalent in France, and offers two years of common studies for all engineers.
+
+    This is followed by three years of specialization in a discipline of engineering. Notably, Software development was not offered as my teachers were sure offshore development would be the main trend for the French software market.
+
+    We instead studied further how to manage a complete informations system, from its requirements, its organization and its change management.
+
+    I hold a master in Software Integration, Knowledge Management and Organizations Science.
+
+    Armed with expert knowledge of UML, I joined a small startup in Paris where I started as an Eclipse developer for their UML edition product.
 - name: Humboldt State University, California
   dates: 2004
   qualification: Exchange program
   quote: 
   description: | # this will include new lines to allow paragraphs
-    Computer Science
+    As part of a 6 month computer science exchange program, I discovered America and American campus life.
+    
+    I worked closely with the teaching staff, taking on a lab assistant role for the C++ course.
+
+    I learned Perl and explored beautiful Arcata. I loved it.
+
