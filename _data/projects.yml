@@ -7,22 +7,23 @@
 #     I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
 - name: Apache Buildr
   link: https://buildr.apache.org
-  github: https://github.com/apache/buildr
+  github: apache/buildr
   quote: >
     A build system for Java based on Rake
   description: |
     A committer and now Chair for Apache Buidr, A Ruby-based Java build system based on Rake.
 - name: Canto
   link: https://github.com/canto-ethereum
-  github: https://github.com/canto-ethereum
+  github: canto-ethereum
   quote: >
     A scalability solution and a rewards system to host sidechains on Ethereum clients
   description: |
     A scalability project allowing to reuse and enhance Ethereum clients as peer-to-peer nodes to run additional sidechains in exchange for rewards. Canto is an active collaboration with [Whiteblock](https://whiteblock.io).
-- name: Cava
-  link: https://github.com/consensys/cava
-  github: https://github.com/consensys/cava
+- name: Apache Tuweni
+  link: https://github.com/apache/incubator-tuweni
+  github: apache/incubator-tuweni
   quote: >
-    ConsenSys Java
+    Apache Tuweni
   description: |
-    A set of libraries to work extensively with Ethereum. Cava implements Ethereum primitives, such as RLP, Merkle trees, RLPx and devp2p discovery.
+    A set of libraries to work extensively with Ethereum. Tuweni implements Ethereum primitives, such as RLP, Merkle trees, RLPx and devp2p discovery.
+    Apache Tuweni was donated to the ASF in 2019 by ConsenSys. It was known as ConsenSys Cava prior to the donation.

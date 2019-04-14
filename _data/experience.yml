@@ -1,3 +1,10 @@
+- company: Apache Software Foundation
+  link: apache.org
+  job_title: Member
+  dates: 2019-Present
+  quote: 
+  description: | # this will include new lines to allow paragraphs
+    I have been a member of the Apache Software Foundation as of March 2019. Prior to being invited to serve in that function, I have maintained and worked as a contributor, committer, PMC member of Apache Buildr and Apache Tuweni amongst others.
 - company: ConsenSys
   link: consensys.net
   job_title: Blockchain Protocol Engineer
