@@ -12,13 +12,6 @@
     A build system for Java based on Rake
   description: |
     A committer and now Chair for Apache Buidr, A Ruby-based Java build system based on Rake.
-- name: Canto
-  link: https://github.com/canto-ethereum
-  github: canto-ethereum
-  quote: >
-    A scalability solution and a rewards system to host sidechains on Ethereum clients
-  description: |
-    A scalability project allowing to reuse and enhance Ethereum clients as peer-to-peer nodes to run additional sidechains in exchange for rewards. Canto is an active collaboration with [Whiteblock](https://whiteblock.io).
 - name: Apache Tuweni
   link: https://github.com/apache/incubator-tuweni
   github: apache/incubator-tuweni

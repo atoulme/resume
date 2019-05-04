@@ -1,3 +1,12 @@
+- company: The Machine Consultancy
+  link: themachine.io
+  job_title: Founder
+  dates: 2019-Present
+  quote:
+  description: |
+    The Machine is a software consultancy focused on building and delivering exquisite software to humans. 
+    
+    We design, build and deliver cloud products for the enterprise.
 - company: Apache Software Foundation
   link: apache.org
   job_title: Member
@@ -8,7 +17,7 @@
 - company: ConsenSys
   link: consensys.net
   job_title: Blockchain Protocol Engineer
-  dates: 2017-Present
+  dates: 2017-2019
   quote: 
   description: | # this will include new lines to allow paragraphs
     I established and managed a team developing and maintaining blockchain products, from Java libraries and privacy solutions to Ethereum clients, working closely with the delivery teams and engaging in early PoC and support conversations.
