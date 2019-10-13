@@ -1,3 +1,12 @@
+- company: Whiteblock
+  link: whiteblock.io
+  job_title: CTO
+  dates: 2019-Present
+  quote:
+  description: |
+    Run real-world testing scenarios on full-scale distributed systems in just a few minutes.
+
+    We support many different blockchain protocols, with an accent on Ethereum and Ethereum 2.0.
 - company: The Machine Consultancy
   link: themachine.io
   job_title: Founder
