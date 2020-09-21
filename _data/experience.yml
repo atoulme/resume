@@ -1,7 +1,13 @@
-- company: Whiteblock
+- company: Splunk
+  link: splunk.com
+  job_title: Engineering Manager
+  dates: 2020-Present
+  quote:
+  description: |
+    Serving the blockchain team at Splunk.
   link: whiteblock.io
   job_title: CTO
-  dates: 2019-Present
+  dates: 2019-2020
   quote:
   description: |
     Run real-world testing scenarios on full-scale distributed systems in just a few minutes.
